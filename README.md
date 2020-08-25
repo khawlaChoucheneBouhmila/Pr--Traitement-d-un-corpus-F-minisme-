@@ -1,5 +1,5 @@
-# Pré-Traitement d'un-corpus "Féminisme"
- Un programme python qui permet de faire les Pré-Traitement :   
- - Éliminer les stops words, lemmatisation , stémmatisation. Tokenisation, capitalisation,  Vectorisation. 
- - Apprentissage  
- - Test : F-Mesure, Rappel, Précision, accuracy.
+# Pre-processing of a "Feminist" corpus
+Python program which allows to do the Pre-Processing:
+  - Eliminate stop words, lemmatization, stemmatization. Tokenization, capitalization, vectorization.
+  - Learning
+  - Test: F-Measure, Recall, Precision, accuracy.
